@@ -1,0 +1,1 @@
+Tcc feito na Etec de Ibitinga no ano de 2021, um web site para intermédio entre alunos buscando estágios e empresas que necessitam divulgar suas vagas.
